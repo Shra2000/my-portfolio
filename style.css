@@ -354,7 +354,7 @@ section .button button:hover{
   justify-content:space-between;
 }
 .skills-details .box{
-  width:calc(100% / 2 - 20px);
+  width:calc(100% / 1 - 20px);
   margin:20px 0;
 }
 .skills-details .boxes .topic{
